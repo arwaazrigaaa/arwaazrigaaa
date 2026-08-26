@@ -18,7 +18,7 @@ Currently exploring: Web Development, Python, Programming
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arwa-azriga-884850315/?isSelfProfile=true)
 [![Gmail](https://img.shields.io/badge/Gmail-FF1493?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arwa.azriga@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-C71585?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arwaazrigaaa)
 
