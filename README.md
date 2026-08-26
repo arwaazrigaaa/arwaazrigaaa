@@ -4,11 +4,15 @@
 
 </div>
 
+<img align="left" width="160" src="https://raw.githubusercontent.com/arwaazrigaaa/arwaazrigaaa/main/avatar.png.png" />
+
 ### 🩷 About Me
 
 Hi! I'm **Arwa**, a Software/CS student. I'm passionate about learning new technologies, building projects, and improving my problem-solving skills through code.
 
 Currently exploring: Web Development, Python, Programming
+
+<br clear="left"/>
 
 ### 🔗 Connect with me
 
