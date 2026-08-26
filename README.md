@@ -44,10 +44,13 @@ Currently exploring: Web Development, Python, Programming
 
 </div>
 
+
+<img align="right" width="160" src="https://raw.githubusercontent.com/arwaazrigaaa/arwaazrigaaa/main/avatar.png" />
+
 ### 🎯 Goals
 
 Software/CS student at McGill.
 
-<div align="center">
 <i>"Every expert was once a beginner."</i>
-</div>
+
+<br clear="right"/>
