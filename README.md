@@ -40,7 +40,7 @@ Currently exploring: Web Development, Python, Programming
 
 <div align="center">
 
-![Arwa's GitHub stats](https://github-readme-stats-liart-eight.vercel.app/api?username=arwaazrigaaa&show_icons=true&theme=radical&title_color=ff69b4&icon_color=ff69b4&text_color=ffffff&bg_color=0d1117)
+![Arwa's GitHub stats](https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=arwaazrigaaa&show_icons=true&theme=radical&title_color=ff69b4&icon_color=ff69b4&text_color=ffffff&bg_color=0d1117)
 </div>
 
 
