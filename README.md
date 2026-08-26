@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Welcome%20to%20Arwa's%20GitHub&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%3C/%3E&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://raw.githubusercontent.com/arwaazrigaaa/arwaazrigaaa/main/banner.svg" width="100%"/>
 
 </div>
 
